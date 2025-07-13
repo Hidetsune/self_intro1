@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+pymupdf
+Pillow
+opencv-python-headless
+mediapipe
+
